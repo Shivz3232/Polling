@@ -1,0 +1,14 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.question-group{
+  margin-bottom:20px;
+  background:#EEE;
+  padding:20px;
+}
+
+.question-group label{
+  font-size:18px;
+}

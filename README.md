@@ -3,7 +3,7 @@ A simple polling app using meteor
 
 To run the app:
 ```
-  cd To-Do-meteor
+  cd Polling
   meteor run
 ```
 

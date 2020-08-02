@@ -4,6 +4,7 @@ A simple polling app using meteor
 To run the app:
 ```
   cd Polling
+  npm install
   meteor run
 ```
 
